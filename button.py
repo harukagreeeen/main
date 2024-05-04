@@ -1,7 +1,7 @@
 # -*- coding: utf8 -*-
 # button.py - pygame用Buttonクラス
 # Yo.Yamanoguchi
-# 2018.10.22
+
 
 import pygame
 from pygame.locals import *
