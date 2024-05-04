@@ -1,6 +1,7 @@
 # -*- coding: utf8 -*-
 # novel.pyw - ノベルゲームエンジン
 # Yo Yamanoguchi
+# HIROKI TSUKIMA
 # v.1.0	2018.10.22	HSP版ノベルゲームエンジンから移植
 
 import pygame
